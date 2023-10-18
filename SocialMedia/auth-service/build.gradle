@@ -1,0 +1,6 @@
+dependencies {
+
+    implementation libs.postgreSQL
+    implementation libs.springBootJPA
+}
+
